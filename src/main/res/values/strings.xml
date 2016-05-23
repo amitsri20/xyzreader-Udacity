@@ -9,5 +9,6 @@
 
     <string name="up">Up</string>
     <string name="transition_photo">article_image</string>
+    <string name="share_content_des">Touch here to share article</string>
 
 </resources>
